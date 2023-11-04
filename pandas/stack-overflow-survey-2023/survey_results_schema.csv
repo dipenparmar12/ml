@@ -66,7 +66,7 @@ QID29,OrgSize,"Approximately how many people are employed by the company or orga
 QID278,PurchaseInfluence,"What level of influence do you, personally, have over new technology purchases at your organization?",FALSE,MC,SAVR
 QID322,TechList,"When thinking about new technology purchases at your organization, are you more likely to be given a short list of products/services to evaluate or be told to investigate on your own?",FALSE,MC,SAVR
 QID279,BuyNewTool,"When buying a new tool or software, how do you discover and research available solutions? Select all that apply.",FALSE,MC,MAVR
-QID6,Country,"Where do you live? <span style=""font-weight: bolder;"">*</span>",TRUE,MC,DL
+QID6,Country,Where do you live? <span style="font-weight: bolder;">*</span>,TRUE,MC,DL
 QID50,Currency,"Which currency do you use day-to-day? If your answer is complicated, please pick the one you're most comfortable estimating in. *",TRUE,MC,DL
 QID51,CompTotal,"What is your current total <b>annual</b> compensation (salary, bonuses, and perks, before taxes and deductions)? Please enter a whole number in the box below, without any punctuation.  If you are paid hourly, please estimate an equivalent yearly salary. If you prefer not to answer, please leave the box empty.",FALSE,TE,SL
 QID61,S3,"<span style=""font-size:22px; font-family: arial,helvetica,sans-serif; font-weight: 700;"">Tech and tech culture</span><br>
@@ -119,7 +119,7 @@ QID295,S6,"<span style=""font-size:22px; font-family: arial,helvetica,sans-serif
 <p> </p>
 
 <p><span style=""font-size: 16px;"">Blog post - <a href=""https://stackoverflow.blog/2021/12/07/new-data-what-developers-look-for-in-future-job-opportunities/"">New data: What developers look for in future job opportunities</a> - December 7, 2021</span></p>",FALSE,DB,TB
-QID299,TBranch,"<span style=""font-size:16px;"">Would you like to participate in the Professional Developer Series? *</span>",TRUE,MC,SAVR
+QID299,TBranch,<span style="font-size:16px;">Would you like to participate in the Professional Developer Series? *</span>,TRUE,MC,SAVR
 QID287,ICorPM,Are you an individual contributor or people manager?,FALSE,MC,SAVR
 QID288,WorkExp,How many years of working experience do you have?,FALSE,Slider,HSLIDER
 QID289,Knowledge,Please rate your level of agreement with the following statement:,FALSE,Matrix,Likert
@@ -129,7 +129,7 @@ QID292,TimeAnswering,"On an average day, how much time do you typically spend an
 QID304,ProfessionalTech,My company has:,FALSE,MC,MAVR
 QID326,Industry,What industry is the company you work for in?,FALSE,MC,SAVR
 QID286,SOTeamsUsage,Does your team use Stack Overflow for Teams?,FALSE,MC,SAVR
-QID131,S7,"<span style=""font-size:22px;""><strong>Final Questions</strong></span><div><br></div>",FALSE,DB,TB
+QID131,S7,<span style="font-size:22px;"><strong>Final Questions</strong></span><div><br></div>,FALSE,DB,TB
 QID132,SurveyLength,How do you feel about the length of the survey this year?,FALSE,MC,MAVR
 QID133,SurveyEase,How easy or difficult was this survey to complete?,FALSE,MC,MAVR
 QID289,Knowledge_1,I have interactions with people outside of my immediate team.,NA,MC,MAVR
