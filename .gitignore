@@ -1,0 +1,51 @@
+temp**
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore user-specific files
+.config/
+.local/
+.npm/
+.node_modules/
+.vscode/
+
+# Ignore Python virtual environment
+venv/
+.venv/
+
+# Ignore IDE and editor-specific files
+.idea/
+.vscode/
+.vscode-test/
+.project
+.classpath
+.settings/
+.idea/
+.vscode/
+.vscode-test/
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore generated or compiled files
+*.log
+*.log.*
+*.tmp
+*.tmp.*
+*.bak
+*.swp
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Ignore package manager lock files
+yarn.lock
+package-lock.json
