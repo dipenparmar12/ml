@@ -4,3 +4,6 @@
 [submodule "reference/ML-Study-Guide"]
 	path = reference/ML-Study-Guide
 	url = git@github.com:AssemblyAI-Examples/ML-Study-Guide.git
+[submodule "reference/100_day_ml_source_code"]
+	path = reference/100_day_ml_source_code
+	url = git@github.com:campusx-official/100-days-of-machine-learning.git
