@@ -8,4 +8,5 @@
 #### Dataset's
 
 - Titanic https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
+- Data Binning in Machine Learning https://www.scaler.com/topics/machine-learning/binning-in-machine-learning/
 - 
