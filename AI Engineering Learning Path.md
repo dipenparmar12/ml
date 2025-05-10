@@ -3,7 +3,7 @@ type: Page
 title: AI Engineering Learning Path
 description: null
 icon: null
-createdAt: '2025-05-10T09:07:34.104Z'
+createdAt: "2025-05-10T09:07:34.104Z"
 creationDate: 2025-05-10 14:37
 modificationDate: 2025-05-10 15:33
 tags: [ML]
@@ -12,7 +12,7 @@ coverImage: null
 
 # AI Engineering Learning Path
 
-# Progressive AI Engineering Learning Path for Working Professionals 
+# Progressive AI Engineering Learning Path for Working Professionals
 
 This restructured 4-month learning path follows a "learn by building" approach, where each foundational concept is immediately followed by its practical applications. Designed for web developers transitioning to AI engineering while working full-time, this curriculum builds progressively from basic building blocks to advanced systems.
 
@@ -28,27 +28,27 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Supervised vs unsupervised learning
+  - Supervised vs unsupervised learning
 
-    - Classification vs regression
+  - Classification vs regression
 
-    - Training, validation, and testing methodology
+  - Training, validation, and testing methodology
 
-    - Basic evaluation metrics (accuracy, precision, recall, F1)
+  - Basic evaluation metrics (accuracy, precision, recall, F1)
 
-    - Overfitting and underfitting
+  - Overfitting and underfitting
 
 - **Practical exercises:**
 
-    - Work through a simple classification problem with scikit-learn
+  - Work through a simple classification problem with scikit-learn
 
-    - Evaluate model performance with different metrics
+  - Evaluate model performance with different metrics
 
 - **Resources:**
 
-    - "Hands-On Machine Learning" by Aurélien Géron (Chapters 1-3)
+  - "Hands-On Machine Learning" by Aurélien Géron (Chapters 1-3)
 
-    - Fast.ai "Practical Deep Learning for Coders" (Lesson 1)
+  - Fast.ai "Practical Deep Learning for Coders" (Lesson 1)
 
 #### Python for ML Implementation (5-6 hours)
 
@@ -56,25 +56,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - NumPy and Pandas fundamentals
+  - NumPy and Pandas fundamentals
 
-    - Data manipulation techniques
+  - Data manipulation techniques
 
-    - Vectorization principles
+  - Vectorization principles
 
-    - Working with different data formats
+  - Working with different data formats
 
 - **Practical exercises:**
 
-    - Process a real-world dataset with Pandas
+  - Process a real-world dataset with Pandas
 
-    - Convert a loop-based algorithm to vectorized operations
+  - Convert a loop-based algorithm to vectorized operations
 
 - **Resources:**
 
-    - "Python for Data Analysis" by Wes McKinney
+  - "Python for Data Analysis" by Wes McKinney
 
-    - NumPy and Pandas documentation
+  - NumPy and Pandas documentation
 
 ### Week 2: Data Processing & Feature Engineering
 
@@ -86,27 +86,27 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Handling missing values
+  - Handling missing values
 
-    - Feature scaling techniques
+  - Feature scaling techniques
 
-        - Categorical encoding methods
+    - Categorical encoding methods
 
-    - Data normalization and standardization
+  - Data normalization and standardization
 
-    - Outlier detection and handling
+  - Outlier detection and handling
 
 - **Practical exercises:**
 
-    - Clean and preprocess a messy dataset
+  - Clean and preprocess a messy dataset
 
-    - Implement different scaling and encoding techniques
+  - Implement different scaling and encoding techniques
 
 - **Resources:**
 
-    - Scikit-learn preprocessing documentation
+  - Scikit-learn preprocessing documentation
 
-    - Feature Engine documentation
+  - Feature Engine documentation
 
 #### Feature Engineering (5-6 hours)
 
@@ -114,25 +114,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Feature selection methods
+  - Feature selection methods
 
-    - Feature extraction techniques
+  - Feature extraction techniques
 
-    - Domain-specific feature creation
+  - Domain-specific feature creation
 
-    - Dimensionality reduction (PCA, t-SNE)
+  - Dimensionality reduction (PCA, t-SNE)
 
 - **Practical exercises:**
 
-    - Extract features from text or time series data
+  - Extract features from text or time series data
 
-    - Implement and compare dimensionality reduction techniques
+  - Implement and compare dimensionality reduction techniques
 
 - **Resources:**
 
-    - "Feature Engineering for Machine Learning" by Alice Zheng
+  - "Feature Engineering for Machine Learning" by Alice Zheng
 
-    - Scikit-learn feature selection documentation
+  - Scikit-learn feature selection documentation
 
 ### Week 3: Model Training & Evaluation
 
@@ -144,25 +144,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Loss functions and their selection
+  - Loss functions and their selection
 
-    - Gradient descent and optimization algorithms
+  - Gradient descent and optimization algorithms
 
-    - Hyperparameter tuning approaches
+  - Hyperparameter tuning approaches
 
-    - Cross-validation techniques
+  - Cross-validation techniques
 
 - **Practical exercises:**
 
-    - Train models with different optimizers and compare results
+  - Train models with different optimizers and compare results
 
-    - Implement k-fold cross-validation on a dataset
+  - Implement k-fold cross-validation on a dataset
 
 - **Resources:**
 
-    - "Deep Learning" by Goodfellow, Bengio, and Courville (relevant chapters)
+  - "Deep Learning" by Goodfellow, Bengio, and Courville (relevant chapters)
 
-    - Scikit-learn model selection documentation
+  - Scikit-learn model selection documentation
 
 #### Model Evaluation & Iteration (5-6 hours)
 
@@ -170,25 +170,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Evaluation metrics for different problem types
+  - Evaluation metrics for different problem types
 
-    - Learning curves interpretation
+  - Learning curves interpretation
 
-    - Confusion matrices and ROC curves
+  - Confusion matrices and ROC curves
 
-    - Error analysis techniques
+  - Error analysis techniques
 
 - **Practical exercises:**
 
-    - Create a comprehensive evaluation dashboard for a model
+  - Create a comprehensive evaluation dashboard for a model
 
-    - Identify and address model weaknesses through error analysis
+  - Identify and address model weaknesses through error analysis
 
 - **Resources:**
 
-    - "Evaluating Machine Learning Models" by Alice Zheng
+  - "Evaluating Machine Learning Models" by Alice Zheng
 
-    - Scikit-learn metrics documentation
+  - Scikit-learn metrics documentation
 
 ### Week 4: Natural Language Processing Basics
 
@@ -200,27 +200,27 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Tokenization methods
+  - Tokenization methods
 
-    - Stop word removal
+  - Stop word removal
 
-    - Stemming and lemmatization
+  - Stemming and lemmatization
 
-    - Bag-of-words and TF-IDF
+  - Bag-of-words and TF-IDF
 
-    - N-grams and their uses
+  - N-grams and their uses
 
 - **Practical exercises:**
 
-    - Implement a text preprocessing pipeline
+  - Implement a text preprocessing pipeline
 
-    - Compare different vectorization techniques
+  - Compare different vectorization techniques
 
 - **Resources:**
 
-    - NLTK and spaCy documentation
+  - NLTK and spaCy documentation
 
-    - "Natural Language Processing with Python" book
+  - "Natural Language Processing with Python" book
 
 #### Word Embeddings (5-6 hours)
 
@@ -228,25 +228,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Word2Vec and GloVe principles
+  - Word2Vec and GloVe principles
 
-    - Static vs contextual embeddings
+  - Static vs contextual embeddings
 
-    - Embedding spaces and their properties
+  - Embedding spaces and their properties
 
-    - Using pre-trained embeddings
+  - Using pre-trained embeddings
 
 - **Practical exercises:**
 
-    - Implement and visualize word embeddings
+  - Implement and visualize word embeddings
 
-    - Use embeddings for a simple classification task
+  - Use embeddings for a simple classification task
 
 - **Resources:**
 
-    - "Speech and Language Processing" by Jurafsky and Martin (relevant chapters)
+  - "Speech and Language Processing" by Jurafsky and Martin (relevant chapters)
 
-    - Gensim documentation
+  - Gensim documentation
 
 ## Month 2: AI Infrastructure & Model Deployment
 
@@ -260,25 +260,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Neurons, layers, and activation functions
+  - Neurons, layers, and activation functions
 
-    - Feedforward networks
+  - Feedforward networks
 
-    - Backpropagation algorithm
+  - Backpropagation algorithm
 
-    - Regularization techniques (dropout, L1/L2)
+  - Regularization techniques (dropout, L1/L2)
 
 - **Practical exercises:**
 
-    - Implement a simple neural network from scratch
+  - Implement a simple neural network from scratch
 
-    - Explore effects of different activation functions
+  - Explore effects of different activation functions
 
 - **Resources:**
 
-    - "Neural Networks and Deep Learning" by Michael Nielsen (online book)
+  - "Neural Networks and Deep Learning" by Michael Nielsen (online book)
 
-    - TensorFlow or PyTorch tutorials (beginner level)
+  - TensorFlow or PyTorch tutorials (beginner level)
 
 #### Deep Learning Frameworks (5-6 hours)
 
@@ -286,25 +286,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - TensorFlow or PyTorch basics
+  - TensorFlow or PyTorch basics
 
-    - Building models with Keras
+  - Building models with Keras
 
-    - Training loops and callbacks
+  - Training loops and callbacks
 
-    - GPU acceleration principles
+  - GPU acceleration principles
 
 - **Practical exercises:**
 
-    - Reimplement your neural network using a framework
+  - Reimplement your neural network using a framework
 
-    - Use callbacks for early stopping and checkpointing
+  - Use callbacks for early stopping and checkpointing
 
 - **Resources:**
 
-    - Official TensorFlow or PyTorch documentation
+  - Official TensorFlow or PyTorch documentation
 
-    - "Deep Learning with Python" by François Chollet
+  - "Deep Learning with Python" by François Chollet
 
 ### Week 2: Transformer Models & Embeddings
 
@@ -316,25 +316,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Attention mechanisms
+  - Attention mechanisms
 
-    - Self-attention and multi-head attention
+  - Self-attention and multi-head attention
 
-    - Position encodings
+  - Position encodings
 
-    - Encoder-decoder structure
+  - Encoder-decoder structure
 
 - **Practical exercises:**
 
-    - Implement a simplified attention mechanism
+  - Implement a simplified attention mechanism
 
-    - Visualize attention patterns in pre-trained models
+  - Visualize attention patterns in pre-trained models
 
 - **Resources:**
 
-    - "Attention Is All You Need" paper
+  - "Attention Is All You Need" paper
 
-    - "The Illustrated Transformer" blog post by Jay Alammar
+  - "The Illustrated Transformer" blog post by Jay Alammar
 
 #### Contextual Embeddings & Language Models (5-6 hours)
 
@@ -342,25 +342,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - BERT, RoBERTa, and other embedding models
+  - BERT, RoBERTa, and other embedding models
 
-    - Sentence and document embeddings
+  - Sentence and document embeddings
 
-    - Fine-tuning vs feature extraction
+  - Fine-tuning vs feature extraction
 
-    - Embedding visualization techniques
+  - Embedding visualization techniques
 
 - **Practical exercises:**
 
-    - Extract embeddings from pre-trained models
+  - Extract embeddings from pre-trained models
 
-    - Use embeddings for a downstream task
+  - Use embeddings for a downstream task
 
 - **Resources:**
 
-    - HuggingFace Transformers documentation
+  - HuggingFace Transformers documentation
 
-    - "Natural Language Processing with Transformers" book
+  - "Natural Language Processing with Transformers" book
 
 ### Week 3: Vector Databases & Retrieval
 
@@ -372,25 +372,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Vector database architectures
+  - Vector database architectures
 
-    - Similarity search principles
+  - Similarity search principles
 
-    - Approximate Nearest Neighbor (ANN) algorithms
+  - Approximate Nearest Neighbor (ANN) algorithms
 
-    - Indexing techniques (HNSW, IVF)
+  - Indexing techniques (HNSW, IVF)
 
 - **Practical exercises:**
 
-    - Set up and configure a vector database (Pinecone, Weaviate, or pgvector)
+  - Set up and configure a vector database (Pinecone, Weaviate, or pgvector)
 
-    - Benchmark different indexing methods
+  - Benchmark different indexing methods
 
 - **Resources:**
 
-    - Vector database documentation (Pinecone, Weaviate, Qdrant)
+  - Vector database documentation (Pinecone, Weaviate, Qdrant)
 
-    - "Vector Databases: From Embeddings to Applications" book
+  - "Vector Databases: From Embeddings to Applications" book
 
 #### Building a Semantic Search System (5-6 hours)
 
@@ -398,25 +398,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Embedding generation for documents
+  - Embedding generation for documents
 
-    - Query processing techniques
+  - Query processing techniques
 
-    - Hybrid search approaches (vector + keyword)
+  - Hybrid search approaches (vector + keyword)
 
-    - Relevance tuning strategies
+  - Relevance tuning strategies
 
 - **Practical exercises:**
 
-    - Build a complete semantic search application
+  - Build a complete semantic search application
 
-    - Implement filters and metadata search
+  - Implement filters and metadata search
 
 - **Resources:**
 
-    - HuggingFace Sentence Transformers documentation
+  - HuggingFace Sentence Transformers documentation
 
-    - LangChain or LlamaIndex retrieval examples
+  - LangChain or LlamaIndex retrieval examples
 
 ### Week 4: Model Deployment & Serving
 
@@ -428,25 +428,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Docker basics for ML
+  - Docker basics for ML
 
-    - Environment management with Conda or venv
+  - Environment management with Conda or venv
 
-    - Model packaging best practices
+  - Model packaging best practices
 
-    - Dependency management
+  - Dependency management
 
 - **Practical exercises:**
 
-    - Containerize a simple ML model
+  - Containerize a simple ML model
 
-    - Create reproducible environments
+  - Create reproducible environments
 
 - **Resources:**
 
-    - Docker documentation
+  - Docker documentation
 
-    - "Docker for Data Scientists" tutorial
+  - "Docker for Data Scientists" tutorial
 
 #### Model Serving Frameworks (5-6 hours)
 
@@ -454,25 +454,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - TorchServe, TensorFlow Serving basics
+  - TorchServe, TensorFlow Serving basics
 
-    - RESTful API design for ML
+  - RESTful API design for ML
 
-    - Batching strategies
+  - Batching strategies
 
-    - Model versioning
+  - Model versioning
 
 - **Practical exercises:**
 
-    - Deploy a model using a serving framework
+  - Deploy a model using a serving framework
 
-    - Create a simple API wrapper
+  - Create a simple API wrapper
 
 - **Resources:**
 
-    - TorchServe or TensorFlow Serving documentation
+  - TorchServe or TensorFlow Serving documentation
 
-    - FastAPI or Flask-RESTful documentation
+  - FastAPI or Flask-RESTful documentation
 
 ## Month 3: MLOps & Production Systems
 
@@ -486,25 +486,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Key metrics for ML systems
+  - Key metrics for ML systems
 
-    - Prometheus and Grafana setup
+  - Prometheus and Grafana setup
 
-    - Log aggregation techniques
+  - Log aggregation techniques
 
-    - Alert design principles
+  - Alert design principles
 
 - **Practical exercises:**
 
-    - Set up a monitoring dashboard for a model
+  - Set up a monitoring dashboard for a model
 
-    - Configure basic alerting
+  - Configure basic alerting
 
 - **Resources:**
 
-    - Prometheus and Grafana documentation
+  - Prometheus and Grafana documentation
 
-    - "Effective Monitoring and Alerting" by Slawek Ligus
+  - "Effective Monitoring and Alerting" by Slawek Ligus
 
 #### Data & Model Drift Detection (5-6 hours)
 
@@ -512,25 +512,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Statistical methods for drift detection
+  - Statistical methods for drift detection
 
-    - Feature distribution monitoring
+  - Feature distribution monitoring
 
-    - Performance degradation signals
+  - Performance degradation signals
 
-    - Automated retraining triggers
+  - Automated retraining triggers
 
 - **Practical exercises:**
 
-    - Implement drift detection for a simple model
+  - Implement drift detection for a simple model
 
-    - Set up automatic reporting of distribution changes
+  - Set up automatic reporting of distribution changes
 
 - **Resources:**
 
-    - Evidently AI documentation
+  - Evidently AI documentation
 
-    - "Machine Learning Monitoring" blog posts by Neptune.ai
+  - "Machine Learning Monitoring" blog posts by Neptune.ai
 
 ### Week 2: CI/CD for ML
 
@@ -542,25 +542,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Unit testing for ML components
+  - Unit testing for ML components
 
-    - Integration testing for pipelines
+  - Integration testing for pipelines
 
-    - Model validation techniques
+  - Model validation techniques
 
-    - Data validation approaches
+  - Data validation approaches
 
 - **Practical exercises:**
 
-    - Write tests for a preprocessing pipeline
+  - Write tests for a preprocessing pipeline
 
-    - Create model validation scripts
+  - Create model validation scripts
 
 - **Resources:**
 
-    - pytest documentation
+  - pytest documentation
 
-    - Great Expectations documentation
+  - Great Expectations documentation
 
 #### Automated ML Pipelines (5-6 hours)
 
@@ -568,25 +568,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - GitHub Actions or similar CI tools
+  - GitHub Actions or similar CI tools
 
-    - Automated model training
+  - Automated model training
 
-    - Model registration workflows
+  - Model registration workflows
 
-    - Deployment automation
+  - Deployment automation
 
 - **Practical exercises:**
 
-    - Create a CI workflow for an ML project
+  - Create a CI workflow for an ML project
 
-    - Implement automated model evaluation
+  - Implement automated model evaluation
 
 - **Resources:**
 
-    - GitHub Actions documentation
+  - GitHub Actions documentation
 
-    - "Practical MLOps" by Noah Gift
+  - "Practical MLOps" by Noah Gift
 
 ### Week 3: Model Fine-tuning & Optimization
 
@@ -598,25 +598,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - LoRA and QLoRA techniques
+  - LoRA and QLoRA techniques
 
-    - Adapters and prefix tuning
+  - Adapters and prefix tuning
 
-    - Hyperparameter optimization
+  - Hyperparameter optimization
 
-    - Training data preparation
+  - Training data preparation
 
 - **Practical exercises:**
 
-    - Fine-tune a language model using LoRA
+  - Fine-tune a language model using LoRA
 
-    - Compare different fine-tuning approaches
+  - Compare different fine-tuning approaches
 
 - **Resources:**
 
-    - HuggingFace PEFT documentation
+  - HuggingFace PEFT documentation
 
-    - Papers on efficient fine-tuning
+  - Papers on efficient fine-tuning
 
 #### Model Optimization & Quantization (5-6 hours)
 
@@ -624,25 +624,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Model pruning techniques
+  - Model pruning techniques
 
-    - Quantization methods (INT8, FP16)
+  - Quantization methods (INT8, FP16)
 
-    - Knowledge distillation
+  - Knowledge distillation
 
-    - ONNX conversion and runtime
+  - ONNX conversion and runtime
 
 - **Practical exercises:**
 
-    - Quantize a model and benchmark performance
+  - Quantize a model and benchmark performance
 
-    - Implement a distilled version of a larger model
+  - Implement a distilled version of a larger model
 
 - **Resources:**
 
-    - ONNX documentation
+  - ONNX documentation
 
-    - TensorRT or OpenVINO guides
+  - TensorRT or OpenVINO guides
 
 ### Week 4: Cost Management & Scaling
 
@@ -654,25 +654,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Cloud cost analysis for ML
+  - Cloud cost analysis for ML
 
-    - Spot instance strategies
+  - Spot instance strategies
 
-    - Batch processing economics
+  - Batch processing economics
 
-    - Make vs buy decisions
+  - Make vs buy decisions
 
 - **Practical exercises:**
 
-    - Build a cost calculator for different inference scenarios
+  - Build a cost calculator for different inference scenarios
 
-    - Implement a cost-based routing system
+  - Implement a cost-based routing system
 
 - **Resources:**
 
-    - Cloud pricing documentation
+  - Cloud pricing documentation
 
-    - "Cloud FinOps" by J.R. Storment and Mike Fuller
+  - "Cloud FinOps" by J.R. Storment and Mike Fuller
 
 #### Horizontal & Vertical Scaling (5-6 hours)
 
@@ -680,25 +680,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Load balancing for ML systems
+  - Load balancing for ML systems
 
-    - Auto-scaling configurations
+  - Auto-scaling configurations
 
-    - Distributed training basics
+  - Distributed training basics
 
-    - Caching strategies
+  - Caching strategies
 
 - **Practical exercises:**
 
-    - Set up load balancing for model endpoints
+  - Set up load balancing for model endpoints
 
-    - Implement request caching
+  - Implement request caching
 
 - **Resources:**
 
-    - Kubernetes documentation
+  - Kubernetes documentation
 
-    - Ray or Dask documentation for distributed computing
+  - Ray or Dask documentation for distributed computing
 
 ## Month 4: Advanced Topics & End-to-End Systems
 
@@ -712,25 +712,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - RAG system architecture
+  - RAG system architecture
 
-    - Retrieval strategies
+  - Retrieval strategies
 
-    - Prompt engineering for RAG
+  - Prompt engineering for RAG
 
-    - Context window management
+  - Context window management
 
 - **Practical exercises:**
 
-    - Build a basic RAG system
+  - Build a basic RAG system
 
-    - Experiment with different retrieval methods
+  - Experiment with different retrieval methods
 
 - **Resources:**
 
-    - LangChain or LlamaIndex documentation
+  - LangChain or LlamaIndex documentation
 
-    - Papers on RAG systems
+  - Papers on RAG systems
 
 #### RAG Optimization & Evaluation (5-6 hours)
 
@@ -738,25 +738,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Retrieval evaluation metrics
+  - Retrieval evaluation metrics
 
-    - Generation quality assessment
+  - Generation quality assessment
 
-    - Reranking techniques
+  - Reranking techniques
 
-    - Chunk size and overlap strategies
+  - Chunk size and overlap strategies
 
 - **Practical exercises:**
 
-    - Implement and evaluate reranking
+  - Implement and evaluate reranking
 
-    - Set up an evaluation framework for RAG
+  - Set up an evaluation framework for RAG
 
 - **Resources:**
 
-    - RAGAS documentation
+  - RAGAS documentation
 
-    - "Building RAG Applications" tutorials
+  - "Building RAG Applications" tutorials
 
 ### Week 2: Classical & Hybrid Approaches
 
@@ -768,25 +768,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - BM25 and TF-IDF algorithms
+  - BM25 and TF-IDF algorithms
 
-    - Rule-based NLP techniques
+  - Rule-based NLP techniques
 
-    - Pattern matching strategies
+  - Pattern matching strategies
 
-    - Decision trees and random forests
+  - Decision trees and random forests
 
 - **Practical exercises:**
 
-    - Implement a BM25 search engine
+  - Implement a BM25 search engine
 
-    - Create a rule-based system for a specific task
+  - Create a rule-based system for a specific task
 
 - **Resources:**
 
-    - "Introduction to Information Retrieval" book
+  - "Introduction to Information Retrieval" book
 
-    - NLTK rule-based components documentation
+  - NLTK rule-based components documentation
 
 #### Hybrid Neural-Symbolic Systems (5-6 hours)
 
@@ -794,25 +794,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Neural-symbolic integration patterns
+  - Neural-symbolic integration patterns
 
-    - Confidence-based fallback strategies
+  - Confidence-based fallback strategies
 
-    - Explainability techniques
+  - Explainability techniques
 
-    - Deterministic guardrails
+  - Deterministic guardrails
 
 - **Practical exercises:**
 
-    - Build a hybrid system combining LLMs and rules
+  - Build a hybrid system combining LLMs and rules
 
-    - Implement deterministic fallbacks
+  - Implement deterministic fallbacks
 
 - **Resources:**
 
-    - Papers on neuro-symbolic AI
+  - Papers on neuro-symbolic AI
 
-    - Case studies of hybrid systems
+  - Case studies of hybrid systems
 
 ### Week 3: System Design & Resilience
 
@@ -824,25 +824,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Microservices vs monolithic architectures
+  - Microservices vs monolithic architectures
 
-    - Event-driven design patterns
+  - Event-driven design patterns
 
-    - API design best practices
+  - API design best practices
 
-    - Security considerations
+  - Security considerations
 
 - **Practical exercises:**
 
-    - Design a complete AI system architecture
+  - Design a complete AI system architecture
 
-    - Create documentation for all components
+  - Create documentation for all components
 
 - **Resources:**
 
-    - "Building Machine Learning Powered Applications" by Emmanuel Ameisen
+  - "Building Machine Learning Powered Applications" by Emmanuel Ameisen
 
-    - "Designing Data-Intensive Applications" by Martin Kleppmann
+  - "Designing Data-Intensive Applications" by Martin Kleppmann
 
 #### Resilience & Fallback Mechanisms (5-6 hours)
 
@@ -850,25 +850,25 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Topics:**
 
-    - Circuit breaker patterns
+  - Circuit breaker patterns
 
-    - Graceful degradation techniques
+  - Graceful degradation techniques
 
-    - Timeout and retry strategies
+  - Timeout and retry strategies
 
-    - Multi-tiered fallback systems
+  - Multi-tiered fallback systems
 
 - **Practical exercises:**
 
-    - Implement a circuit breaker for an AI service
+  - Implement a circuit breaker for an AI service
 
-    - Create a multi-level fallback system
+  - Create a multi-level fallback system
 
 - **Resources:**
 
-    - "Release It!" by Michael Nygard
+  - "Release It!" by Michael Nygard
 
-    - Netflix Hystrix documentation (concepts)
+  - Netflix Hystrix documentation (concepts)
 
 ### Week 4: Capstone Project
 
@@ -880,31 +880,31 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Project requirements:**
 
-    - Choose a real-world problem to solve
+  - Choose a real-world problem to solve
 
-    - Design a complete system architecture
+  - Design a complete system architecture
 
-    - Implement data processing, model training, and serving
+  - Implement data processing, model training, and serving
 
-    - Add monitoring, logging, and resilience features
+  - Add monitoring, logging, and resilience features
 
-    - Document design decisions and tradeoffs
+  - Document design decisions and tradeoffs
 
 - **Deliverables:**
 
-    - Working prototype with code
+  - Working prototype with code
 
-    - System architecture documentation
+  - System architecture documentation
 
-    - Performance benchmarks
+  - Performance benchmarks
 
-    - Cost analysis
+  - Cost analysis
 
 - **Resources:**
 
-    - All previously mentioned resources
+  - All previously mentioned resources
 
-    - Industry case studies relevant to your project
+  - Industry case studies relevant to your project
 
 ## Weekly Schedule for Working Professionals
 
@@ -920,15 +920,15 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 
 - **Day 1 (Saturday):**
 
-    - **1 hour:** Review weekly concepts
+  - **1 hour:** Review weekly concepts
 
-    - **2-3 hours:** Project implementation
+  - **2-3 hours:** Project implementation
 
 - **Day 2 (Sunday):**
 
-    - **2-3 hours:** Complete exercises
+  - **2-3 hours:** Complete exercises
 
-    - **1 hour:** Prepare for next week
+  - **1 hour:** Prepare for next week
 
 ## Key Resources for Every Stage
 
@@ -963,4 +963,3 @@ This restructured 4-month learning path follows a "learn by building" approach, 
 - Papers from top ML conferences
 
 This progressive learning path emphasizes building skills from fundamentals to advanced concepts, with immediate application of each new concept. The structure follows Shantanu Ladhwe's philosophy of understanding the basics thoroughly before moving to complex systems, ensuring you can build resilient AI systems that actually make it to production.
-
