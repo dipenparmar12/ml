@@ -1,5 +1,21 @@
 # NumPy & Scientific Computing for Machine Learning
 
+#### Resources:
+- [NumPy Crash Course (Video)](https://www.youtube.com/watch?v=x7ULDYs4X84)
+- [Introduction to NumPy (Video/Practice)](https://www.datacamp.com/courses/introduction-to-numpy)
+- [NumPy for Machine Learning (Blog)](https://towardsdatascience.com/introducing-numpy-part-1-understanding-arrays-3f6fecc97e3d/)
+    - https://towardsdatascience.com/introducing-numpy-part-1-understanding-arrays-3f6fecc97e3d/
+    - https://towardsdatascience.com/introducing-numpy-part-2-indexing-arrays-5b381b90d1d0/
+    - https://towardsdatascience.com/introducing-numpy-part-3-manipulating-arrays-2685f5d3299d/
+    - https://towardsdatascience.com/introducing-numpy-part-4-doing-math-with-arrays-5e77ac595641/
+
+---
+
+- [NumPy Cheat Sheet](https://www.datacamp.com/resources/cheat-sheets/python-numpy-cheat-sheet)
+- [NumPy for Data Science](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
+- [NumPy for Data Analysis](https://www.datacamp.com/community/tutorials/numpy-tutorial-python)
+
+
 ## 1. Introduction to NumPy in the ML Ecosystem
 - Why NumPy is fundamental to scientific computing and ML
 - Performance advantages over native Python
