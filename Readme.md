@@ -11,3 +11,7 @@
 - Data Binning in Machine Learning https://www.scaler.com/topics/machine-learning/binning-in-machine-learning/
 - cross_val_score in sklearn https://www.educative.io/answers/how-to-implement-crossvalscore-in-sklearn
 - 
+
+
+#### Learning Paths
+ - AI & Data Science Bootcamp with Virtual Internship: https://codebasics.io/bootcamps/ai-data-science-bootcamp-with-virtual-internship
