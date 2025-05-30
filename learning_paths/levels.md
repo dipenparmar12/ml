@@ -1,4 +1,57 @@
 
+## Why Your Machine Learning Projects Won't Land You a Job
+
+- **Video:** [Watch here](https://www.youtube.com/watch?v=Bx4BYXOE9SQ)
+- **Summary:** Explains five levels of ML projects, skills needed at each, and common pitfalls.
+
+---
+
+### Level 1: Beginner Projects
+
+- Use clean, structured datasets
+- Work in Jupyter notebooks
+- Tools: Pandas, sklearn
+- Focus: Exploratory analysis, basic models (e.g., linear regression), default parameters, simple metrics
+
+---
+
+### Level 2: Real-World Data
+
+- Handle messy, real-world datasets
+- Use version control (Git)
+- Apply train-validation-test splits
+- Address class imbalance
+- Example: Customer churn prediction
+
+---
+
+### Level 3: Production-Ready ML
+
+- Emphasize scalability and deployment
+- Use Docker, build APIs
+- Implement monitoring
+- Example: Real-time content recommendation engine
+
+---
+
+### Level 4: Industrial-Scale ML
+
+- Use cloud platforms (AWS, Google Cloud)
+- Apply deep learning frameworks
+- Tackle large-scale, real-time problems
+- Example: Real-time fraud detection with compliance and monitoring
+
+---
+
+### Level 5: Research & Innovation
+
+- Invent new ML methods or architectures
+- Focus on theoretical advances
+- Example: Custom neural networks, scientific discovery systems
+
+
+--- 
+
 # Why Your Machine Learning Projects Won't Land You a Job (The 5 Levels of ML Projects)
 
 ![Thumbnail](https://i.ytimg.com/vi/Bx4BYXOE9SQ/maxresdefault.jpg)
